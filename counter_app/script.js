@@ -26,6 +26,7 @@ function updatedisplay(){
 } else {
     countdisplay.style.color = 'red'; }
 }
+//this is code to change theme colour
 const displaytheme=document.getElementById("toggle-theme");
 const savedtheme=localStorage.getItem("theme")||"light";
 document.body.classList.add(`${savedtheme}-theme`);
