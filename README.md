@@ -26,5 +26,4 @@ A Body Mass Index calculator that takes height and weight as input and classifie
 - Normal weight
 - Overweight
 - Obese
-
-👉 [View Project](BMI-calculator/index.html)
+  👉 [View Project](BMI-calculator/index.html)
