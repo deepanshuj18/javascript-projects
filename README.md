@@ -20,5 +20,11 @@ A simple to-do list app using `localStorage` for saving tasks.
 
 ### 4. BMI Calculator
 
-A Body Mass Index calculator that takes height and weight as input and classifies the result (underweight, normal, overweight, etc.).  
-👉 [View Project](bmi-app/index.html)
+A Body Mass Index calculator that takes height and weight as input and classifies the result:
+
+- Underweight
+- Normal weight
+- Overweight
+- Obese
+
+👉 [View Project](BMI-calculator/index.html)
