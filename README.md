@@ -27,3 +27,10 @@ A Body Mass Index calculator that takes height and weight as input and classifie
 - Overweight
 - Obese
   👉 [View Project](BMI-calculator/index.html)
+
+### 5. Weather App
+
+A weather forecast app that fetches real-time weather data using the OpenWeatherMap API.
+User enters a city name and gets current temperature, weather condition, and location info.
+
+👉 [View Project](weather-app/index.html)
