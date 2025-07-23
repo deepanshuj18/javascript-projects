@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    background-color: darkcyan;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height:100vh;
+    margin: 0;
+    
+}
+.container{
+    text-align: center;
+    background: white;
+    padding: 2rem;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    
+
+
+
+}
+city{
+    padding: 0.5rem;
+    width: 200px;
+}
+
+button:hover{ 
+    margin-left:10px 20px;
+    padding: 0.5rem;
+    cursor: pointer;
+    background-color: #0288d1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    
+
+}
+#result {
+    margin-top: 20px;
+    background-color: #918888;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 300px;
+}
