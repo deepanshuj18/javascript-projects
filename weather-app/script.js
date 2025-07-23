@@ -9,7 +9,7 @@ searchbutton.addEventListener("click",()=>{
     }
     getweather(city);
 });
-const API_key="c6a73b2c75f5e189f09fc5c2b247f1d2";
+const API_key="your API key";
 function getweather(city){
     const apiurl= `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_key}&units=metric`;
     fetch(apiurl).then(Response =>{
